@@ -35,7 +35,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 ***
 
-**[2] Extensions to Bindaas Data Integration Middleware **
+**[2] Extensions to Bindaas Data Integration Middleware**
 
 **Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) 
 
@@ -60,7 +60,7 @@ Second, currently Bindaas limits its API to REST. We also propose to have more i
 
 ***
 
-**[3] Performance Enhancements to Bindaas Data Integration Middleware
+**[3] Performance Enhancements to Bindaas Data Integration Middleware**
  
 **Mentors:**  Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Mohanapriya Narapareddy (mohanapriya.narapareddy -at- emory.edu)
 
