@@ -110,46 +110,13 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 ***
 
-**[5] An OpenSlide Reader for TensorFlow: Enabling Machine-Learning for Digital Pathology**
-
-**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu) and Lee Cooper (lee.cooper -at- emory.edu)
-
-**Overview:** This project seeks to develop a custom TensorFlow reader for digital pathology whole slide images (WSIs). These images are massive, often 80K x 120K or larger, and are stored in proprietary formats that can be read by the OpenSlide Library but can not be directly read by Tensorflow. This project will develop a C reader based on OpenSlide to enable these images to be read efficiently within TensorFlow.
-
-**Present Status of the work:** As per our knowledge, there is no such tool in the existing OpenSlide software for converting the images/datasets into the Tensorflow supported "TfRecord" file format (extension of files  .tfrecord). On the other hand, Tensorflow doesn't encourage the user to use some other file formats rather than TfRecords. TfRecords are the best way to handle a complex training dataset structure in a single record file. 
-
-**Expected results:** A documented, tested implementation with build instructions for popular platforms.
-
-**Required Skills:** C, software profiling, and optimization.
-
-**Community and Code License:** Apache License 2.0
-
-**Slack room:** gsoc2019-bmi.slack.com openslider-tf
-
+**[5] TensorFlow-GUI**
+**Mentor:**  Monjoy Saha
+***Code:** https://github.com/sharmalab/tensorflow-gui
 ***
 
-**[6] DeepConverter: A Universal tool for Theano to Tensorflow Convertor**
 
-**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu) and Xiaoyuan Guo (xiaoyuan.guo -at- emory.edu)
-
-**Overview:** This proposal aims to develop a universal converter for converting a trained deep learning model from Theano to Tensorflow or vice-versa. There are many open-source software libraries, like Tensorflow, Theano, Caffe, CNTK, Pytorch, etc., available for dataflow programming. But it is a very complicated and challenging task if we want to run/test a trained model developed in Theano/Tensorflow/Caffe, etc., using different libraries. Hence, we are concentrating on the development of Theano to Tensorflow or vice-versa converter. We are focusing on the Theano because there will not be any further development or official release after the last version (Theano 1.0.0) on November 15, 2017 [http://deeplearning.net/software/theano/].
-
-**Present Status of the work:** There is no such tool available which can solve this purpose. Few authors reported the use of weight values from a trained model in Theano and tried to run in Tensorflow. Their success  rate is not satisfactory.  
-
-**Proposed idea:** We will write code in such a way so that we can use already developed, in Theano/Tensorflow, models.  From the end users point of view, only model architecture needs to write in for that particular library. 
-
-**Expected results:** A converter tool which can be used to run a Theano/Tensorflow pre-trained models. 
-
-**Required Skills:** Tensorflow, Theano, Python, C/C++
-
-**Community and Code License:** Apache License 2.0
-
-**Slack room:** gsoc2019-bmi.slack.com theano-tf
-
-
-***
-
-**[7] Sub-second queries on billion point datasets in Datascope**
+**[6] Sub-second queries on billion point datasets in Datascope**
 
 **Mentors:**  Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
 
@@ -166,7 +133,7 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 ***
 
 
-**[8] DataScope using serverless functions**
+**[7] DataScope using serverless functions**
 
 **Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
 
