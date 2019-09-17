@@ -111,8 +111,19 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 ***
 
 **[5] TensorFlow-GUI**
-**Mentor:**  Monjoy Saha
-***Code:** https://github.com/sharmalab/tensorflow-gui
+
+**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
+
+**Overview:** 
+
+**Deliverables:** GUI for Tensorflow model 
+
+**Required Skills:** Tensorflow, Python
+
+**Community and Code License:** https://github.com/sharmalab/tensorflow-gui Apache License 2.0
+
+**Slack room:** gsoc2019-bmi.slack.com gui-tf
+
 ***
 
 
