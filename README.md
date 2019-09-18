@@ -56,7 +56,7 @@ Second, currently Bindaas limits its API to REST. We also propose to have more i
 
 **Community and Code License:**  https://github.com/sharmalab/bindaas Apache License 2.0
 
-**Slack room:** gsoc2019-bmi.slack.com 
+**Slack room:** gsoc2019-bmi.slack.com bindaas
 
 ***
 
@@ -82,7 +82,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 **Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
 
-**Slack room:** gsoc2019-bmi.slack.com 
+**Slack room:** gsoc2019-bmi.slack.com bindaas
 
 
 ***
