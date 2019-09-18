@@ -162,6 +162,18 @@ During this project, the student would work towards making every request for Dat
 
 ***
 
+**[7] TensorFlow-GUI for Android**
+**Mentor:**  Monjoy Saha
+***Code:** https://github.com/sharmalab/tensorflow-gui
+***
+
+
+**[8] TensorFlow-GUI for TensorFlow.js**
+**Mentor:**  Monjoy Saha
+***Code:** https://github.com/sharmalab/tensorflow-gui
+***
+
+
 # Source Repositories
 
 We are committed to open source development. As a research organization, our source code lives across several open source project repositories. Most of them can be found in the below locations:
