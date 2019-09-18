@@ -162,15 +162,21 @@ During this project, the student would work towards making every request for Dat
 
 ***
 
-**[7] TensorFlow-GUI for Android**
-**Mentor:**  Monjoy Saha
-***Code:** https://github.com/sharmalab/tensorflow-gui
+**[8] TensorFlow-GUI for Android**
+
+**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
+
+**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+
 ***
 
 
-**[8] TensorFlow-GUI for TensorFlow.js**
-**Mentor:**  Monjoy Saha
-***Code:** https://github.com/sharmalab/tensorflow-gui
+**[9] TensorFlow-GUI for TensorFlow.js**
+
+**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
+
+**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+
 ***
 
 
