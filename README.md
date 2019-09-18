@@ -120,7 +120,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 **Required Skills:** Tensorflow, Python
 
-**Community and Code License:** https://github.com/sharmalab/tensorflow-gui Apache License 2.0
+**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
 
 **Slack room:** gsoc2019-bmi.slack.com gui-tf
 
@@ -166,7 +166,11 @@ During this project, the student would work towards making every request for Dat
 
 **Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
 
+**Required Skills:** Tensorflow, Python
+
 **Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+
+**Slack room:** gsoc2019-bmi.slack.com gui-tf
 
 ***
 
@@ -175,7 +179,11 @@ During this project, the student would work towards making every request for Dat
 
 **Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
 
+**Required Skills:** Tensorflow, Python
+
 **Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+
+**Slack room:** gsoc2019-bmi.slack.com gui-tf
 
 ***
 
