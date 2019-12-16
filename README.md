@@ -110,11 +110,20 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 ***
 
-**[5] TensorFlow-GUI**
+**[5] TensorFlow-GUI: Graphical User Interface for Tensorflow**
 
 **Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
 
-**Overview:** 
+**Overview:** This project aims to develop a graphical user interface (GUI) for any deep learning model development and visualization of outcomes based on the existing Tensorflow functions. This interface will act just like a simulator similar to MATLAB. This technique will be helpful for the beginners who don't have sufficient programming knowledge. Moreover, our proposed concept will help to maintain the quality of the work.
+              
+**Present Status of the work:** Preliminary work has been done and a TensorFlow-GUI has been implemented as part of GSoC 2019 project with Emory BMI organization. The GSoC 2020 student is expected to extend or utilize the work from the previous year.
+
+There are very few organizations that are also working on the development of almost similar kind of tools. Deep Cognition (https://deepcognition.ai/) is one of them. Though they have many limitations including the quality of the code/output and the number of users. This is not an open source software.
+              
+**Proposed Methodology:** We will use existing Tensorflow functions which will be converted into the blocks of layers (e.g., convolution, transpose convolution, pooling, ReLu, etc.). The parameters of each layer can be set as per the requirements of the model. Suppose in the case of convolution layer; the user can set the values of input, weight, bias, kernel dimensions, number of output channels, etc.
+ 
+**Benefits:** The proposed GUI will be very much helpful for the beginners or who don't have sufficient knowledge of coding. This GUI will help in maintaining the quality of the work for Emory BMI researchers as well as the broader research community. The students also have the potential to submitting a pull request upstream to the Tensorflow community, if relevant.
+ 
 
 **Deliverables:** GUI for Tensorflow model 
 
@@ -127,7 +136,33 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 ***
 
 
-**[6] Sub-second queries on billion point datasets in Datascope**
+**[6] TensorFlow-GUI for Android**
+
+**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
+
+**Required Skills:** Tensorflow, Python
+
+**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+
+**Slack room:** gsoc2019-bmi.slack.com gui-tf
+
+***
+
+
+**[7] TensorFlow-GUI for TensorFlow.js**
+
+**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
+
+**Required Skills:** Tensorflow, Python
+
+**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+
+**Slack room:** gsoc2019-bmi.slack.com gui-tf
+
+***
+
+
+**[8] Sub-second queries on billion point datasets in Datascope**
 
 **Mentors:**  Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
 
@@ -144,7 +179,7 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 ***
 
 
-**[7] DataScope using serverless functions**
+**[9] DataScope using serverless functions**
 
 **Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
 
@@ -162,30 +197,6 @@ During this project, the student would work towards making every request for Dat
 
 ***
 
-**[8] TensorFlow-GUI for Android**
-
-**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
-
-**Required Skills:** Tensorflow, Python
-
-**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
-
-**Slack room:** gsoc2019-bmi.slack.com gui-tf
-
-***
-
-
-**[9] TensorFlow-GUI for TensorFlow.js**
-
-**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
-
-**Required Skills:** Tensorflow, Python
-
-**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
-
-**Slack room:** gsoc2019-bmi.slack.com gui-tf
-
-***
 
 
 # Source Repositories
