@@ -31,7 +31,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
-**Slack room:** gsoc2019-bmi.slack.com multidimensional-viz
+**Slack room:** gsoc-emory-bmi.slack.com multidimensional-viz
 
 ***
 
@@ -56,7 +56,7 @@ Second, currently Bindaas limits its API to REST. We also propose to have more i
 
 **Community and Code License:**  https://github.com/sharmalab/bindaas Apache License 2.0
 
-**Slack room:** gsoc2019-bmi.slack.com bindaas
+**Slack room:** gsoc-emory-bmi.slack.com bindaas
 
 ***
 
@@ -82,7 +82,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 **Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
 
-**Slack room:** gsoc2019-bmi.slack.com bindaas
+**Slack room:** gsoc-emory-bmi.slack.com bindaas
 
 
 ***
@@ -105,7 +105,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 **Community and Code License:** Apache License 2.0
 
-**Slack room:** gsoc2019-bmi.slack.com compact-layer
+**Slack room:** gsoc-emory-bmi.slack.com compact-layer
 
 
 ***
@@ -131,7 +131,7 @@ There are very few organizations that are also working on the development of alm
 
 **Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
 
-**Slack room:** gsoc2019-bmi.slack.com gui-tf
+**Slack room:** gsoc-emory-bmi.slack.com gui-tf
 
 ***
 
@@ -144,7 +144,7 @@ There are very few organizations that are also working on the development of alm
 
 **Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
 
-**Slack room:** gsoc2019-bmi.slack.com gui-tf
+**Slack room:** gsoc-emory-bmi.slack.com gui-tf
 
 ***
 
@@ -157,7 +157,7 @@ There are very few organizations that are also working on the development of alm
 
 **Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
 
-**Slack room:** gsoc2019-bmi.slack.com gui-tf
+**Slack room:** gsoc-emory-bmi.slack.com gui-tf
 
 ***
 
@@ -174,7 +174,7 @@ Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the 
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
-**Slack room:** gsoc2019-bmi.slack.com datascope-queries
+**Slack room:** gsoc-emory-bmi.slack.com datascope-queries
 
 ***
 
@@ -193,7 +193,7 @@ During this project, the student would work towards making every request for Dat
 
 **Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
 
-**Slack room:** gsoc2019-bmi.slack.com datascope-serverless
+**Slack room:** gsoc-emory-bmi.slack.com datascope-serverless
 
 ***
 
