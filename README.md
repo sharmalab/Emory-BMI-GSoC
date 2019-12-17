@@ -1,7 +1,7 @@
 # Emory BMI GSoC 2020
-<img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI has been a successful mentoring orgnaization for Google Summer of Code 2019! We had 4 great students. We are excited and looking forward to working with the students for GSoC 2020.
+<img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI is committed to open source development of several biomedical informatics research projects. As a research organization, its source code lives across several open source project repositories. Most of them can be accessed from https://github.com/sharmalab
 
-We are committed to open source development. As a research organization, our source code lives across several open source project repositories. Most of them can be accessed from https://github.com/sharmalab
+Emory BMI has been a successful mentoring orgnaization for Google Summer of Code 2019! We had 4 great students. We are excited and looking forward to working with the students for GSoC 2020.
 
 
 # Communicating with the mentors
