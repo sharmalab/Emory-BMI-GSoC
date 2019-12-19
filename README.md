@@ -1,7 +1,7 @@
 # Emory BMI GSoC 2020
 <img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI is committed to open source development of several biomedical informatics research projects. As a research organization, its source code lives across several open source project repositories. Most of them can be accessed from https://github.com/sharmalab
 
-Emory BMI has been a successful mentoring orgnaization for Google Summer of Code 2019! We had 4 great students. We are excited and looking forward to working with another batch of students for GSoC 2020.
+Emory BMI has been a successful mentoring orgnaization for [Google Summer of Code 2019](https://github.com/sharmalab/Emory-BMI-GSoC-2019)! We had 4 great students. We are excited and looking forward to working with another batch of students for GSoC 2020.
 
 
 # Communicating with the mentors
@@ -21,7 +21,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 **Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. Currently Datascope uses templated visualizations. 
 
-This project would involve creating or adapting interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration. There could be several approaches the student could consider. For example, we could provide users the ability to declaratively specify what visualizations they’d want to see in datascope using an existing tool such as Vega [https://vega.github.io/]. All of Datascope’s visualizations are interactive, so the challenge would be to ensure that whichever visalizations chosen are smoothly integrated with interactivity.
+This project would involve creating or adapting interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration. There could be several approaches the student could consider. For example, we could provide users the ability to declaratively specify what visualizations they’d want to see in datascope using an existing tool such as [Vega](https://vega.github.io/). All of Datascope’s visualizations are interactive, so the challenge would be to ensure that whichever visalizations chosen are smoothly integrated with interactivity.
 
 Adding multidimensional interactive visualizations would allow users to explore the relationship between two or more variables, and to create cohorts based upon combinations of interest.
 
@@ -120,7 +120,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
               
 **Present Status of the work:** Preliminary work has been done and a TensorFlow-GUI has been implemented as part of GSoC 2019 project with Emory BMI organization. The GSoC 2020 student is expected to extend or utilize the work from the previous year.
 
-There are very few organizations that are also working on the development of almost similar kind of tools. Deep Cognition (https://deepcognition.ai/) is one of them. Though they have many limitations including the quality of the code/output and the number of users. This is not an open source software.
+There are very few organizations that are also working on the development of almost similar kind of tools. [Deep Cognition](https://deepcognition.ai/) is one of them. Though they have many limitations including the quality of the code/output and the number of users. This is not an open source software.
               
 **Proposed Methodology:** We will use existing Tensorflow functions which will be converted into the blocks of layers (e.g., convolution, transpose convolution, pooling, ReLu, etc.). The parameters of each layer can be set as per the requirements of the model. Suppose in the case of convolution layer; the user can set the values of input, weight, bias, kernel dimensions, number of output channels, etc.
  
@@ -170,7 +170,7 @@ There are very few organizations that are also working on the development of alm
 
 **Overview:** Datascope currently uses crossfilter.js on a Node application server to store data and perform queries on it. This project would involve refactoring Datascope’s backend to use other frameworks instead of Crossfilter. The student would develop capabilities that ensure that the Datascope’s declarative schema is compatible with the new application server.
 
-Students can consider OLAP engines like Kylin: http://kylin.apache.org/ for the backend. However, as an open-ended problem we expect the student to propose their own solution and justify it.
+Students can consider OLAP engines like [Kylin](http://kylin.apache.org) for the backend. However, as an open-ended problem we expect the student to propose their own solution and justify it.
 
 **Required Skills:** Javascript
 
