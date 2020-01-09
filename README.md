@@ -89,30 +89,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 ***
 
-**[4] Development of Compact/Encapsulated Layer**  
-
-**Mentors:** Monjoy Saha (monjoy.saha -at- emory.edu)
-
-**Overview:** The concept of developing compact or encapsulated layer is to reduce the repeatability of writing /using the same functions again and again. In any deep learning model development, we normally use multiple convolutions, pooling, transpose convolution, etc., layers. It makes the architecture complex and increases the number of layers. For example, in the case of GoogleNet, there are 22 layers, ResNet, there are 34, 50, 101 and 152 layers. In almost all the cases we are repeating almost some operations, e.g. convolution, pooling and etc. which can be reduced if we make something called compact layers. The output of the compact layer will be the same as it is if we use multiple layers. The input will be the tensors, order of the convolutional, pooling and etc layers, the layers’ definitive characteristics, these characteristics can be the strides and kernel sizes for convolutional layers, pooling type for pooling layers and activation functions along with their definitive parameters.
-              
-**Present Status of the work:** To the best of our knowledge there isn’t any existing implementation in Tensorflow.
-              
-**Proposed idea:** We will use existing Tensorflow neural network layers/functions which will be encapsulated as one compact layer. The parameters of each layer can be set based on the requirements of the model.
- 
-**Benefits:** The idea behind having the encapsulated layers as a replacement for existing layers is making implementation of deep networks easier and more compact. This will be more useful when implementing deep networks with lots of layers, most of which are just the repetition of the same layer types with different parameters. This can make the understanding and modifying the architecture easier and can save a lot of implementation time.
- 
-**Deliverables:**  A new encapsulated layer for neural networks in Tensorflow
- 
-**Required Skills:** Tensorflow, Python, C/C++ (optional)
-
-**Community and Code License:** Apache License 2.0
-
-**Slack room:** gsoc-emory-bmi.slack.com compact-layer
-
-
-***
-
-**[5] TensorFlow-GUI: Graphical User Interface for Tensorflow**
+**[4] TensorFlow-GUI: Graphical User Interface for Tensorflow**
 
 **Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
 
@@ -137,34 +114,7 @@ There are very few organizations that are also working on the development of alm
 
 ***
 
-
-**[6] TensorFlow-GUI for Android**
-
-**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
-
-**Required Skills:** Tensorflow, Python
-
-**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
-
-**Slack room:** gsoc-emory-bmi.slack.com gui-tf
-
-***
-
-
-**[7] TensorFlow-GUI for TensorFlow.js**
-
-**Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
-
-**Required Skills:** Tensorflow, Python
-
-**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
-
-**Slack room:** gsoc-emory-bmi.slack.com gui-tf
-
-***
-
-
-**[8] Sub-second queries on billion point datasets in Datascope**
+**[5] Sub-second queries on billion point datasets in Datascope**
 
 **Mentors:**  Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
 
@@ -181,7 +131,7 @@ Students can consider OLAP engines like [Kylin](http://kylin.apache.org) for the
 ***
 
 
-**[9] DataScope using serverless functions**
+**[6] DataScope using serverless functions**
 
 **Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
 
