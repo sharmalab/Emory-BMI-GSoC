@@ -114,37 +114,3 @@ There are very few organizations that are also working on the development of alm
 
 ***
 
-**[5] Sub-second queries on billion point datasets in Datascope**
-
-**Mentors:**  Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu) and Sapoon Dutta (sapoon.dutta -at- emory.edu)
-
-**Overview:** Datascope currently uses crossfilter.js on a Node application server to store data and perform queries on it. This project would involve refactoring Datascope’s backend to use other frameworks instead of Crossfilter. The student would develop capabilities that ensure that the Datascope’s declarative schema is compatible with the new application server.
-
-Students can consider OLAP engines like [Kylin](http://kylin.apache.org) for the backend. However, as an open-ended problem we expect the student to propose their own solution and justify it.
-
-**Required Skills:** Javascript
-
-**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
-
-**Slack room:** gsoc-emory-bmi.slack.com datascope-queries
-
-***
-
-
-**[6] DataScope using serverless functions**
-
-**Mentors:**  Ashish Sharma (ashish.sharma -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
-
-**Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. 
-
-During this project, the student would work towards making every request for DataScope stateless. Consequently, the whole application will be served via a content-delivery network (CDN).
-
-**Required Skills:** Javascript, Serverless
-
-**Code Challenge:** Students are expected to provide a meaningful bug report or contribution to the Datascope Repository to demonstrate their capability to complete this project successfully.
-
-**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
-
-**Slack room:** gsoc-emory-bmi.slack.com datascope-serverless
-
-***
