@@ -15,29 +15,7 @@ Discuss the project on Slack, and once you are ready to submit your application,
 
 ***
 
-**[1] Interactive Multidimensional Visualizations**
-
-**Mentors:**  Ryan Birmingham (rbirmin -at- emory.edu) and Ganesh Iyer (ganesh.iyer -at- mgh.harvard.edu)
-
-**Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. Currently Datascope uses templated visualizations. 
-
-This project would involve creating or adapting interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration. There could be several approaches the student could consider. For example, we could provide users the ability to declaratively specify what visualizations they’d want to see in datascope using an existing tool such as [Vega](https://vega.github.io/). All of Datascope’s visualizations are interactive, so the challenge would be to ensure that whichever visalizations chosen are smoothly integrated with interactivity.
-
-Adding multidimensional interactive visualizations would allow users to explore the relationship between two or more variables, and to create cohorts based upon combinations of interest.
-
-**Current Status:** Currently, DataScope has interactive visualizations, but only of a single variable each, and has some multidimensional visualizations, but they are noninteractive.
-
-**Required Skills:** Javascript, D3 (recommended)
-
-**Code Challenge:** Either from scratch or an existing toolkit, make a simple univariate interactive visualization. Alternatively, a meaningful bug report or contribution to the Datascope Repository.
-
-**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
-
-**Slack room:** gsoc-emory-bmi.slack.com multidimensional-viz
-
-***
-
-**[2] Extensions to Bindaas Data Integration Middleware**
+**[1] Extensions to Bindaas Data Integration Middleware**
 
 **Mentors:** Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Tushar Aggarwal (tushar1997 -at- gmail.com)
 
@@ -62,7 +40,7 @@ Second, currently Bindaas limits its API to REST. We also propose to have more i
 
 ***
 
-**[3] Performance Enhancements to Bindaas Data Integration Middleware**
+**[2] Performance Enhancements to Bindaas Data Integration Middleware**
  
 **Mentors:**  Pradeeban Kathiravelu (pradeeban.kathiravelu -at- emory.edu) and Mohanapriya Narapareddy (mohanapriya.narapareddy -at- emory.edu)
 
@@ -89,7 +67,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 ***
 
-**[4] TensorFlow-GUI: Graphical User Interface for Tensorflow**
+**[3] TensorFlow-GUI: Graphical User Interface for Tensorflow**
 
 **Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
 
@@ -113,4 +91,24 @@ There are very few organizations that are also working on the development of alm
 **Slack room:** gsoc-emory-bmi.slack.com gui-tf
 
 ***
+**[4] Interactive Multidimensional Visualizations**
 
+**Mentors:**  Ryan Birmingham (rbirmin -at- emory.edu)
+
+**Overview:** DataScope is a framework for exploratory analysis on high dimensional datasets, especially biomedical datasets. Currently Datascope uses templated visualizations. 
+
+This project would involve creating or adapting interactive visualizations that would assist with cohort creation, manual dimensionality reduction, and dataset exploration. There could be several approaches the student could consider. For example, we could provide users the ability to declaratively specify what visualizations they’d want to see in datascope using an existing tool such as [Vega](https://vega.github.io/). All of Datascope’s visualizations are interactive, so the challenge would be to ensure that whichever visalizations chosen are smoothly integrated with interactivity.
+
+Adding multidimensional interactive visualizations would allow users to explore the relationship between two or more variables, and to create cohorts based upon combinations of interest.
+
+**Current Status:** Currently, DataScope has interactive visualizations, but only of a single variable each, and has some multidimensional visualizations, but they are noninteractive.
+
+**Required Skills:** Javascript, D3 (recommended)
+
+**Code Challenge:** Either from scratch or an existing toolkit, make a simple univariate interactive visualization. Alternatively, a meaningful bug report or contribution to the Datascope Repository.
+
+**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
+
+**Slack room:** gsoc-emory-bmi.slack.com multidimensional-viz
+
+***
