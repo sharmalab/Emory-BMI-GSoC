@@ -1,5 +1,5 @@
 # Emory BMI GSoC 2020
-<img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI is committed to open source development of several biomedical informatics research projects. As a research organization, its source code lives across several open source project repositories. Most of them can be accessed from https://github.com/sharmalab
+<img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI is committed to open source development of several biomedical informatics research projects. As a research organization, its source code lives across several open source project repositories, released with BSD 3-Clause License. Most of them can be accessed from https://github.com/sharmalab
 
 Emory BMI has been a successful mentoring orgnaization for [Google Summer of Code 2019](https://github.com/sharmalab/Emory-BMI-GSoC-2019)! We had 4 great students. We are excited and looking forward to working with another batch of students for GSoC 2020.
 
@@ -34,7 +34,7 @@ Second, currently Bindaas limits its API to REST. We also propose to have more i
    
 **Required Skills:** Java, Web Services, Apache Maven, OSGi, GraphQL, Cloud Computing
 
-**Community and Code License:**  https://github.com/sharmalab/bindaas Apache License 2.0
+**Source Code:**  https://github.com/sharmalab/bindaas
 
 **Slack room:** gsoc-emory-bmi.slack.com bindaas
 
@@ -60,7 +60,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 **Required Skills:** Java, Web Services, Apache Maven, OSGi
 
-**Community and Code License:** https://github.com/sharmalab/bindaas Apache License 2.0
+**Source Code:** https://github.com/sharmalab/bindaas
 
 **Slack room:** gsoc-emory-bmi.slack.com bindaas
 
@@ -86,7 +86,7 @@ There are very few organizations that are also working on the development of alm
 
 **Required Skills:** Tensorflow, Python
 
-**Community and Code License:** https://github.com/sharmalab/tensorflow-gui GNU General Public License v3.0
+**Source Code:** https://github.com/sharmalab/tensorflow-gui
 
 **Slack room:** gsoc-emory-bmi.slack.com gui-tf
 
@@ -107,7 +107,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **Code Challenge:** Either from scratch or an existing toolkit, make a simple univariate interactive visualization. Alternatively, a meaningful bug report or contribution to the Datascope Repository.
 
-**Community and Code License:** https://github.com/sharmalab/Datascope BSD 3-Clause License
+**Source Code:** https://github.com/sharmalab/Datascope 
 
 **Slack room:** gsoc-emory-bmi.slack.com multidimensional-viz
 
