@@ -101,7 +101,7 @@ Upload trained model---> feed an input image---> get the prediction results.
 The fifth part is the Tensorboard integration part. Tensorboard is already integrated into our existing GUI. In our future development, it is required to implement the visualization of feature maps and more statistical analysis options. 
 
 
-**Required Skills:** Tensorflow, Python
+**Required Skills:** Tensorflow, Python, Natsort, Pandas, NodeJS, Electron, Jquery, Jquery-ui-dist, Rimraf, Sweetalert
 
 **Source Code:** https://github.com/sharmalab/tensorflow-gui
 
