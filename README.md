@@ -67,7 +67,7 @@ Third, Bindaas currently does not optimize its database queries. We should be ab
 
 ***
 
-**[3] Graphical User Interface for Tensorflow**
+**[3] TensorFlow-GUI: A Graphical User Interface for Tensorflow**
 
 **Mentors:**  Monjoy Saha (monjoy.saha -at- emory.edu)
 
