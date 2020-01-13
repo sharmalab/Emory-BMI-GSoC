@@ -133,7 +133,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **[5] Sepsis prediction using minimal datasets**
 
-**Mentors:** Azade Tabaie, Ian Wong
+**Mentors:** Azade Tabaie (azade.tabaie -at- emory.edu), Ian Wong (an-kwok.ian.wong -at- emory.edu)
 
 **Overview:** Sepsis is a clinical condition requiring intensive care, and can lead to organ dysfunction or death. The aim of this project is to develop novel machine learning algorithms for earlier prediction of sepsis using a minimal set of clinical variables. 
 
@@ -143,7 +143,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **[6] Temporal analysis of a bioinformatics pipeline**
 
-**Mentors:** Olivia Zhang, Rishi Kamaleswaran
+**Mentors:** Olivia Zhang (olivia.zhang -at- emory.edu), Rishi Kamaleswaran (rkamaleswaran -at- emory.edu)
 
 **Overview:**  Requires the development of a pipeline that integrates discrete clinical data to continuous streaming data within the context of sepsis.
 
@@ -154,7 +154,7 @@ Adding multidimensional interactive visualizations would allow users to explore 
 
 **[7] Cross-synchronization and web interface for platform status**
 
-**Mentors:** Rishi Kamaleswaran
+**Mentors:** Rishi Kamaleswaran (rkamaleswaran -at- emory.edu)
 
 **Overview:** Developing a web-based dashboard for automated transfer and replication of data across facilities. 
 
