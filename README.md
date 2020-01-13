@@ -129,3 +129,35 @@ Adding multidimensional interactive visualizations would allow users to explore 
 **Slack room:** gsoc-emory-bmi.slack.com multidimensional-viz
 
 ***
+
+
+**[5] Sepsis prediction using minimal datasets**
+
+**Mentors:** Azade Tabaie, Ian Wong
+
+**Overview:** Sepsis is a clinical condition requiring intensive care, and can lead to organ dysfunction or death. The aim of this project is to develop novel machine learning algorithms for earlier prediction of sepsis using a minimal set of clinical variables. 
+
+**Required Skills:** Machine learning, deep learning, python, tensor flow, SQL
+
+***
+
+**[6] Temporal analysis of a bioinformatics pipeline**
+
+**Mentors:** Olivia Zhang, Rishi Kamaleswaran
+
+**Overview:**  Requires the development of a pipeline that integrates discrete clinical data to continuous streaming data within the context of sepsis.
+
+**Required Skills:** Machine learning, deep learning, python, tensor flow, SQL
+
+
+***
+
+**[7] Cross-synchronization and web interface for platform status**
+
+**Mentors:** Rishi Kamaleswaran
+
+**Overview:** Developing a web-based dashboard for automated transfer and replication of data across facilities. 
+
+**Required Skills:** BASH, Linux, Javascript, HTML
+
+***
