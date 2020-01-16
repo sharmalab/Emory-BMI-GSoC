@@ -224,9 +224,9 @@ Break the timeline into periods of 3 – 4 days
 
 **8.3) Project Completion, testing, and documentation**
 
-**9) Planned work hours in a week**
+**9) Planned GSoC work hours**
 
-GSoC is expected to be a full time job, with 35 hours or more a week of contribution. Please indicate the work hours (including the timezone), that you prefer to work on your project. 
+GSoC is expected to be a full time job, with 35 hours or more a week of contribution. Please indicate the work hours (including the timezone), that you hope to work on your project. 
 
 **10) Planned absence/vacation days and other commitments during the GSoC period (including the community bonding period)**
 
