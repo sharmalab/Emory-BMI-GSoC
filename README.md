@@ -192,7 +192,9 @@ The students are encouraged to follow this template. However, they are not expec
 
 **1) Project Title:**
 
-**2) Abstract / Project Summary:**
+**2) Abstract / Project Summary**:
+
+Summarize the project in your own words.
 
 **3) Student Name:**
 
