@@ -184,3 +184,53 @@ Adding multidimensional interactive visualizations would allow users to explore 
 **Slack room:** gsoc-emory-bmi.slack.com cross-synchronization
 
 ***
+
+
+# Application Template
+
+The students are *not* expected to strictly follow this template. However, they are advised to clearly include all the requested information in their application.
+
+1) Project Title:
+
+2) Abstract / Project Summary:
+
+3 ) Student Name:
+
+4) Student Email:
+
+5) Potential Mentor(s):
+
+6) Personal Background (Brief CV)
+
+7) Project Goals / Major Contributions
+
+(Enter as bullets)
+
+..
+     
+..
+     
+..
+
+8) Project Schedule
+
+Break the timeline into periods of 3 – 4 days
+
+8.1) Community Bonding Period
+
+8.2) Development Phase
+
+8.3) Project Completion, testing, and documentation
+
+9) Planned absence/vacation days and other commitments during the GSoC period (including the community bonding period)
+
+Please indicate if you have any lectures/classes and examinations. GSoC is expected to be a full time job, with 35 hours or more a week of contribution.
+
+10) Preferred working timezone
+
+Assuming a 9 am - 5 pm work schedule, which timezone fits your work timing better.
+
+11) Skill Set
+
+Your relevant skill set to complete this project. Include pointers to bug fixes, demos, and previous work.
+
