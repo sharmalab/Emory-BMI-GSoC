@@ -172,7 +172,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **[7] Temporal analysis of a bioinformatics pipeline**
 
-**Mentors:** Olivia Zhang (olivia.zhang -at- emory.edu) and Rishi Kamaleswaran (rkamaleswaran -at- emory.edu)
+**Mentors:** Olivia Zhang (olivia.zhang -at- emory.edu) and Rishi Kamaleswaran (rkgsoc -at- gmail.com)
 
 **Overview:**  Requires the development of a pipeline that integrates discrete clinical data to continuous streaming data within the context of sepsis.
 
@@ -190,7 +190,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **[8] Cross-synchronization and web interface for platform status**
 
-**Mentors:** Rishi Kamaleswaran (rkamaleswaran -at- emory.edu) and Qiao Li (qiao.li -at- emory.edu)
+**Mentors:** Rishi Kamaleswaran (rkgsoc -at- gmail.com) and Qiao Li (qiao.li -at- emory.edu)
 
 **Overview:** Developing a web-based dashboard for automated transfer and replication of data across facilities. 
 
@@ -204,6 +204,24 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Slack room:** gsoc-emory-bmi.slack.com cross-synchronization
 
+***
+
+
+**[9] An Augmented Reality App for reading EKG**
+
+**Mentors:** Rishikesan Kamaleswaran (rkgsoc -at- gmail.com)
+
+**Overview:** The use of AR in medicine has grown significantly, in this project the student will develop an AR application to assist clinical decision making. 
+
+**Expected results:** The student will develop an augmented reality application to read paper forms of EKGs via camera and display heart rate, R-R interval, Q-T intervals, etc.
+
+**Code Challenge:**
+
+**Required Skills:** App Development, Python, Tensorflow, SQL
+
+**Source Code:** New project.
+
+**Slack room:** gsoc-emory-bmi.slack.com ar-ekg
 ***
 
 
