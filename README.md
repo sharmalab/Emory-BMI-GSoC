@@ -160,7 +160,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Expected results:** 
 
-**Code Challenge:**
+**Code Challenge:** Highlight in your proposal any previous work that demonstrates expertise in machine learning, Python, and Tensorflow.
 
 **Required Skills:** Machine learning, deep learning, Python, Tensorflow, SQL
 
@@ -178,7 +178,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Expected results:** 
 
-**Code Challenge:**
+**Code Challenge:** Highlight in your proposal any previous work that demonstrates expertise in machine learning, Python, and Tensorflow.
 
 **Required Skills:** Machine learning, deep learning, Python, Tensorflow, SQL
 
@@ -196,7 +196,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Expected results:** 
 
-**Code Challenge:**
+**Code Challenge:** Please include links to a mockup web interface or a related previous work. 
 
 **Required Skills:** BASH, Linux, Javascript, HTML
 
@@ -215,7 +215,7 @@ There are a variety of software packages for visualizing data with plots, but re
 
 **Expected results:** The student will develop an augmented reality application to read paper forms of EKGs via camera and display heart rate, R-R interval, Q-T intervals, etc.
 
-**Code Challenge:**
+**Code Challenge:** Students that highlight their expertise with a previous working sample/demo of an augmented reality app, or with prototypes to such apps are considered favorably.
 
 **Required Skills:** App Development, Python, Tensorflow, SQL
 
