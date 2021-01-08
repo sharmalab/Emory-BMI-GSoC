@@ -1,4 +1,10 @@
+```diff
+- This page lists the GSoC 2020 ideas. Please find the GSoC 2021 ideas at 
+```
+https://github.com/NISYSLAB/Emory-BMI-GSoC/ 
+
 # Emory BMI GSoC 2020
+
 <img src="https://pbs.twimg.com/profile_images/535105446957182978/4PApPZ-s_400x400.png" width="150" height="150" align="left" /> Emory BMI is committed to open source development of several biomedical informatics research projects. As a research organization, its source code lives across several open source project repositories, released with BSD 3-Clause License. Most of them can be accessed from https://github.com/sharmalab
 
 Emory BMI has been a successful mentoring orgnaization for [Google Summer of Code 2019](https://github.com/sharmalab/Emory-BMI-GSoC-2019)! We had 4 great students. We are excited and looking forward to working with another batch of students for GSoC 2020.
